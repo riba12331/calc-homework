@@ -14,5 +14,5 @@ document.querySelector('.calc .eq')
 
 document.querySelector('.calc .clear')
     .addEventListener('click', function () {
-        display.value = ' ';
+        display.value = '';
 });
